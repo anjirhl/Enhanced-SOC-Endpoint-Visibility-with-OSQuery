@@ -1,0 +1,8 @@
+--logger_plugin=filesystem
+--logger_path="C:\\Program Files\\osquery\\"
+--config_path="C:\\Program Files\\osquery\\osquery.conf"
+--disable_events=false
+--event_pubsub=true
+--schedule_splay_percent=10
+--utc
+--verbose

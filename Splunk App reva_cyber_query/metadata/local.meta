@@ -1,0 +1,106 @@
+[app/ui]
+version = 9.4.0
+modtime = 1738752741.817817800
+
+[app/launcher]
+version = 9.4.0
+modtime = 1738752741.829957700
+
+[nav/default]
+version = 9.4.0
+modtime = 1740076473.837074200
+
+[views/system]
+owner = admin
+version = 9.4.0
+modtime = 1740765387.059088400
+
+[props/osquery_json]
+owner = admin
+version = 9.4.0
+modtime = 1738774321.410535000
+
+[indexes/osquery]
+owner = admin
+version = 9.4.0
+modtime = 1738774870.164870600
+
+[props/osquery_results]
+owner = admin
+version = 9.4.0
+modtime = 1738867720.124942700
+
+[inputs/splunktcp%3A%2F%2F9997]
+owner = admin
+version = 9.4.0
+modtime = 1738866912.517086100
+
+[savedsearches/Test]
+owner = admin
+version = 9.4.0
+modtime = 1739992565.458807800
+
+[savedsearches/SOC_Suspicious_User_Login_Activity_T1078_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993642.412352300
+
+[savedsearches/SOC_Unusual_Process_Execution_T1059_003_win]
+owner = admin
+version = 9.4.0
+modtime = 1739992565.458807800
+
+[savedsearches/SOC_New_Service_Installation_T1050_win]
+owner = admin
+version = 9.4.0
+modtime = 1740340657.148805900
+
+[savedsearches/SOC_Suspicious_Scheduled_Task_T1053_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993569.365657800
+
+[savedsearches/SOC_Registry_Persistence_Modification_T1547_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993541.035841500
+
+[savedsearches/SOC_Suspicious_Registry_Changes_T1112_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993561.124679900
+
+[savedsearches/SOC_Unusual_Network_Connections_T1041_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993603.484868700
+
+[savedsearches/SOC_Unsigned_Binary_Execution_T1027_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993592.908563500
+
+[savedsearches/SOC_Process_Injection_Attempt_T1055_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993511.413492700
+
+[savedsearches/SOC_Suspicious_DLL_Load_T1129_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993550.234666900
+
+[savedsearches/SOC_Unauthorized_File_Modification_T1070_win]
+owner = admin
+version = 9.4.0
+modtime = 1739993586.338042200
+
+[savedsearches/SOC_Suspicious_PowerShell_Download_Cradle_T1059_001_win]
+owner = admin
+version = 9.4.0
+modtime = 1739996340.263610800
+
+[inputs/monitor%3A%2F%2FC%3A%5CProgram%20Files%5Cosquery%5Clog%5Cosqueryd.results.log]
+owner = admin
+version = 9.4.0
+modtime = 1740720324.079233900

@@ -1,0 +1,6 @@
+--config_path=/etc/osquery/osquery.conf
+--logger_plugin=filesystem
+--logger_path=/var/log/osquery
+--schedule_splay_percent=10
+--host_identifier=hostname
+--disable_logging=false
